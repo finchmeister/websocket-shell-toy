@@ -1,0 +1,11 @@
+{
+    "require": {
+        "cboden/ratchet": "^0.4.3",
+        "symfony/process": "^5.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "WebSocketShell\\": "src"
+        }
+    }
+}
